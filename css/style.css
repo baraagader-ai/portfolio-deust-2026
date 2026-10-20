@@ -1,0 +1,12 @@
+#formation {
+     background-color: green;
+    }
+#formation li {
+    backround-color: yellow;
+}
+li.mise-en-forme {
+     color: red;
+font-size: 20px;
+text-align: center;
+}
+body{background-color: lightblue;}
