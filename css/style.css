@@ -1,10 +1,15 @@
 /* Section Formation */
 #formation {
-  background-color: transparent;
+  body {
+    background-color: #f2f2f2;
+  }
   padding: 20px;
   margin-bottom: 20px;
 }
 
+h1 {
+  color: purple;
+}
 /* Liste des formations */
 #formation ul {
   list-style: none;
